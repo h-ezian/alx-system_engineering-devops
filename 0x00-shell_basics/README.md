@@ -1,2 +1,4 @@
 Repository for shell basics commands
-Command for the current repository path
+pwd -> Command for the current repository path
+ls -> list directory content
+cd -> change the current directory to home
